@@ -1,0 +1,11 @@
+{
+  "id": "form-inside",
+  "evaluate": "form-inside.js",
+  "metadata": {
+    "impact": "critical",
+    "messages": {
+      "pass": "Table does not contains a form",
+      "fail": "There are forms inside a table"
+    }
+  }
+}

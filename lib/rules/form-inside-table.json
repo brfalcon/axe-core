@@ -1,0 +1,18 @@
+{
+  "id": "form-inside-table",
+  "selector": "table",
+  "excludeHidden": false,
+  "tags": [
+    "wcag2a",
+    "wcag211"
+  ],
+  "metadata": {
+    "description": "Ensures that there are not forms inside tables",
+    "help": "forms must not exists inside table elements"
+  },
+  "all": [],
+  "any": [],
+  "none": [
+    "form-inside"
+  ]
+}
