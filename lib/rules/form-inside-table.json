@@ -3,8 +3,7 @@
   "selector": "table",
   "excludeHidden": false,
   "tags": [
-    "wcag2a",
-    "wcag211"
+    "emag"
   ],
   "metadata": {
     "description": "Ensures that there are not forms inside tables",

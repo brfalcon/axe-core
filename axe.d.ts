@@ -6,7 +6,7 @@ declare module axe {
 
 	export type ImpactValue = "minor" | "moderate" | "serious" | "critical";
 
-	export type TagValue = "wcag2a" | "wcag2aa" | "section508" | "best-practice";
+	export type TagValue = "wcag2a" | "wcag2aa" | "section508" | "best-practice" | "emag";
 
 	export type ReporterVersion = "v1" | "v2";
 
